@@ -25,6 +25,6 @@ public class TestJenkinsApplication {
         Banner banner = new ImageBanner(new PathResource("C:\\Users\\mafra-cxm\\Desktop\\banner.jpg"));
         app.setBanner(banner);
         app.run(args);
-    }
 
+    }
 }
