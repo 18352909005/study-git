@@ -5,5 +5,5 @@ public class ApplicationRunnerTest2{
 	private Integer ages;
 	private Long id;
 
-	private Integer masterBranch;
+	private Integer masterTestBranch;
 }
