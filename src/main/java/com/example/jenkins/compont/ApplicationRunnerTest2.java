@@ -6,4 +6,6 @@ public class ApplicationRunnerTest2{
 	private Long id;
 
 	private Integer createNewBranch;
+
+	private Integer switchBranch;
 }
