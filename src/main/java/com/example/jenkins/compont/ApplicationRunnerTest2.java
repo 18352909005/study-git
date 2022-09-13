@@ -8,4 +8,6 @@ public class ApplicationRunnerTest2{
 	private Integer masterTestBranch;
 
 	private Integer addSwitchBranch;
+
+	private Integer stash;
 }
