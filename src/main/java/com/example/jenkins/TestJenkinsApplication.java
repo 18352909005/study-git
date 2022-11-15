@@ -20,11 +20,5 @@ public class TestJenkinsApplication {
 
         List<String> strings = new ArrayList<>();
 
-        app.setBannerMode(Banner.Mode.CONSOLE);
-
-        Banner banner = new ImageBanner(new PathResource("C:\\Users\\mafra-cxm\\Desktop\\banner.jpg"));
-        app.setBanner(banner);
-        app.run(args);
-
     }
 }
